@@ -1,3 +1,3 @@
 # Practica_2_SD
 Codigo de Sistemas Distribuidos
-Codigo En Master
+Codigo En Master y Main
